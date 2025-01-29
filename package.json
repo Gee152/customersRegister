@@ -1,0 +1,25 @@
+{
+  "name": "estudos",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000R\u0000U\u0000D\u0000-\u0000T\u0000S\u0000-\u0000S\u0000O\u0000L\u0000I\u0000D\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch scr/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/fastify-cors": "^2.1.2",
+    "@types/node": "^22.10.5",
+    "prisma": "^6.1.0",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@fastify/cors": "^10.0.1",
+    "@prisma/client": "^6.1.0",
+    "fastify": "^5.2.0",
+    "fastify-cors": "^6.1.0",
+    "tsx": "^4.19.2"
+  }
+}
